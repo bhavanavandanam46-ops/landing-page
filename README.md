@@ -4,7 +4,7 @@ A modern and responsive landing page developed using HTML and CSS. The project f
 
 ## 📸 Preview
 
-![LandingPage](landingpage.png)
+![landingpage](landingpage.png)
 
 ## 🚀 Features
 
